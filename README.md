@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **siddheshmahadik726@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Siddhesh/Downloads/Siddhesh%20CV.pdf](file:///C:/Users/Siddhesh/Downloads/Siddhesh%20CV.pdf)
+- 📄 Know about my experiences (https://www.canva.com/design/DAFu3iJO0t8/Gc2mmYu6UIVl0GM0Uwt7Vg/edit?utm_content=DAFu3iJO0t8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I support Real Madrid**
 
