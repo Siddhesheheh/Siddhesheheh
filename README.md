@@ -9,14 +9,14 @@
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-mahadik-35399a201/)
 - [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/siddheshmahadik2)
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with expertise in various technologies including Python, JavaScript, HTML, CSS, and Cloud Computing. I love building scalable web applications and leveraging data visualization tools to derive insights. Currently, I'm diving deeper into cloud platforms like AWS and GCP.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with expertise in various technologies including Python, Salesforce, JavaScript, HTML, CSS, and Cloud Computing. I'm currently working as a Associate Software Engineer in NEC Software Solutions .I love building scalable web applications. Currently, I'm diving deeper into Salesforce Technology.
 
 
 ## About Me
 
 - 🌍 I'm from Mumbai.
-- 💼 I'm currently working on Cool Projects.
-- 🌱 I'm currently learning Cloud Technologies.
+- 💼 I'm currently working in NEC Software Solutions.
+- 🌱 I'm currently learning Salesforce Technology.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: siddheshmahadik726@gmail.com 
 
@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer with expertise 
 
 ## Technologies I Work With
  
-- 🐍 Programming Languages: Python, JavaScript  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🐍 Programming Languages: Python, JavaScript, Apex  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌐 Web Development: HTML, CSS, Flask
-- 💻 Databases: SQL, DBMS, MongoDB
+- 💻 Databases: SQL, DBMS, SOQL, MongoDB
 - 📱 Data Visualization: PowerBi, Tableau
 - ☁️ Cloud Computing: AWS, GCP
 
