@@ -3,7 +3,7 @@
 
 
 
-### Hi there, I'm <a href="https://www.linkedin.com/in/siddhesh-mahadik-35399a201/" target="_blank">Siddhesh Mahadik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://siddhesheheh.github.io/Personal/Profile.html" target="_blank">Siddhesh Mahadik</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-mahadik-35399a201/)
