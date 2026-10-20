@@ -7,7 +7,6 @@
 
 
 - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-mahadik-35399a201/)
-- [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/siddheshmahadik2)
 
 Welcome to my GitHub profile! I am a Software Engineer with 2+ years of experience building Salesforce products and translating business requirements into scalable customer-facing solutions. Experienced in problem framing, stakeholder collaboration, prioritization, and end-to-end solution delivery. 
 Built product case studies involving user research, PRDs, prioritization, and success metrics, now seeking an Product role to combine 
